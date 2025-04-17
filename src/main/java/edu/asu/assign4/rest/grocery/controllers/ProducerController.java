@@ -20,6 +20,7 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 import edu.asu.assign4.rest.grocery.model.Producer;
 import edu.asu.assign4.rest.grocery.services.ProducerServices;
+import edu.asu.assign4.rest.grocery.model.GroceryItem;
 
 @RestController
 @RequestMapping("/api/producers")
